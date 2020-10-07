@@ -1,0 +1,66 @@
+body {
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+  color: white;
+}
+
+.logo {
+  width: 120px;
+}
+
+.gmail {
+  font-size: 30px;
+  display: inline-block;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+}
+
+#search {
+  width: 200px;
+}
+
+#non-lette {
+ color: red;
+ background-color: orange;
+ border-radius: 50%;
+ padding-left: 4px;
+}
+
+.row-left {
+  display: inline-block;
+  width: 30%;
+}
+
+.row-right {
+  display: inline-block;
+  width: 68%;
+}
+
+.oggetto {
+
+}
+
+.row {
+  color: black;
+}
+
+.stella {
+  color: orange;
+}
+.nonletta {
+  background-color: grey;
+}
+
+.letta {
+  background-color: lightgrey;
+}
+
+footer {
+  text-align: center;
+}
+
+#nome-footer {
+  font-size: 25px;
+}
